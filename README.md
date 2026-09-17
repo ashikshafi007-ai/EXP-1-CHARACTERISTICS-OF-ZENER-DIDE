@@ -63,3 +63,5 @@ Reverse Resistance:
 RR = [(5.12 − 5.11) / (1.87 − 1.37)] × 10³ = 20 Ω
 Result
 Thus the Zener diode characteristics were studied.
+<img width="992" height="687" alt="Screenshot 2026-09-08 133124" src="https://github.com/user-attachments/assets/918b00c7-5d92-46c9-a641-5f1c95087ccb" />
+
